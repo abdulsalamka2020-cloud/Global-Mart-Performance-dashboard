@@ -6,7 +6,7 @@ An end-to-end Power BI project analyzing sales performance and supply chain oper
 
 ## 📑 Table of Contents
 
-1. [Project Overview](#-project-overview)
+1. Project Overview
 2. [Business Problem](#-business-problem)
 3. [Project Objectives](#-project-objectives)
 4. [Datasets](#-datasets)
