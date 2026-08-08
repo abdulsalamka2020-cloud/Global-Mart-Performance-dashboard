@@ -1,4 +1,4 @@
-# 🛒 Global Mart / Supermart Supply Chain & Sales Performance Dashboard
+# 🛒 Global Mart Supply Chain & Sales Performance Dashboard
 
 An end-to-end Power BI project analyzing sales performance and supply chain operations across Africa, built to help leadership monitor revenue, profitability, delivery reliability, and supplier performance from a single interactive report.
 
@@ -62,7 +62,7 @@ The report is built from retail sales and supply chain data covering operations 
 ## 🖼 Dashboard Preview
 
 ### Dashboard 1 — Supermart Sales Performance
-![](sales-performance-dashboard (1).png)
+![](sales-performance-dashboard.png)
 
 ### Dashboard 2 — Global Mart Supply Chain & Operations
 ![](supply-chain-dashboard.png)
