@@ -7,15 +7,15 @@ An end-to-end Power BI project analyzing sales performance and supply chain oper
 ## 📑 Table of Contents
 
 1. Project Overview
-2. [Business Problem](#-business-problem)
-3. [Project Objectives](#-project-objectives)
-4. [Datasets](#-datasets)
-5. [Dashboard Preview](#-dashboard-preview)
-6. [KPIs](#-kpis)
-7. [Business Questions & Insights](#-business-questions--insights)
-8. [Business Insight](#-business-insight)
-9. [Strategic Recommendations](#-strategic-recommendations)
-10. [Future Improvements](#-future-improvements)
+2. Business Problem
+3. Project Objectives
+4. Datasets
+5. Dashboard Preview
+6. KPIs
+7. Business Questions & Insights
+8. Business Insight
+9. Strategic Recommendations
+10. Future Improvements
 
 ---
 
