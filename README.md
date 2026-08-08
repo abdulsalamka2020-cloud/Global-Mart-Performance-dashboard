@@ -1,6 +1,6 @@
 # 🛒 Global Mart Supply Chain & Sales Performance Dashboard
 
-An end-to-end Power BI project analyzing sales performance and supply chain operations across Africa, built to help leadership monitor revenue, profitability, delivery reliability, and supplier performance from a single interactive report.
+This is an end-to-end Power BI project analyzing sales performance and supply chain operations across Africa, built to help leadership monitor revenue, profitability, delivery reliability, and supplier performance from a single interactive report.
 
 ---
 
