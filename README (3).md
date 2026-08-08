@@ -62,7 +62,7 @@ The report is built from retail sales and supply chain data covering operations 
 ## 🖼 Dashboard Preview
 
 ### Dashboard 1 — Supermart Sales Performance
-![](sales-performance-dashboard.png)
+![](sales-performance-dashboard (1).png)
 
 ### Dashboard 2 — Global Mart Supply Chain & Operations
 ![](supply-chain-dashboard.png)
