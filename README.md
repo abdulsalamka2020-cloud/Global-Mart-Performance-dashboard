@@ -127,14 +127,16 @@ Accra WH-2 and Cairo WH-4 lead in total revenue (~$24.4M and ~$23.0M respectivel
 
 ## 🚀 Future Improvements
 
-- Add **predictive analytics** (e.g., forecasted revenue and delivery success rate using Power BI's built-in forecasting or Python/R integration).
-- Incorporate **customer-level data** (repeat purchase rate, customer satisfaction/NPS) to connect delivery performance to retention.
-- Build **automated data refresh** via Power Query/Power BI Service scheduled refresh instead of manual updates.
-- Add **drill-through pages** for individual suppliers, warehouses, and products for deeper root-cause analysis.
-- Introduce **anomaly detection/alerts** (e.g., Power BI data alerts) for when delivery success rate or damaged goods cross a defined threshold.
-- Expand geographic granularity beyond region/country to city or distribution-center level.
-- Add a **cost/expense view** to complement revenue and profit, enabling full margin analysis.
+*Longer-term moves the business could pursue based on what this dashboard reveals — beyond the immediate actions in Strategic Recommendations above.*
+
+- **Diversify the logistics network** by qualifying secondary carriers or 3PL partners in the regions dragging down delivery success, reducing dependence on any single logistics provider.
+- **Rebalance the supplier base toward profitability** over time — grow volume with high-margin suppliers like Quickship Co and Globaltrade Ng while phasing down reliance on low-margin, high-stock suppliers.
+- **Pursue targeted regional growth** in North and South Africa through local partnerships, localized product assortments, or new distribution points to close the gap with East, Central, and West Africa.
+- **Replicate high-performing warehouse operations** by turning Accra WH-2 and Cairo WH-4's practices into a standard playbook rolled out to Lagos WH-1 and other underperforming sites.
+- **Smooth seasonal revenue swings** by developing counter-seasonal product lines or promotions to offset the post-July decline, rather than relying on the same demand pattern every year.
+- **Invest in packaging and cold-chain/handling improvements** at the warehouses driving the most damaged goods, protecting margin and customer trust.
+- **Build customer loyalty programs** tied to reliable delivery, converting operational strength into a competitive differentiator once delivery performance improves.
+- **Explore private-label or bundled product opportunities** in the top-performing categories (Home Appliances, Health & Beauty) to improve margin beyond the current 27.87%.
 
 ---
-
 *Built with Power BI ·, DAX measures, and conditional formatting used for KPI and warehouse performance cards.*
