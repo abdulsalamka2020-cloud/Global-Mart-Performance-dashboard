@@ -23,23 +23,23 @@ This is an end-to-end Power BI project analyzing sales performance and supply ch
 
 This project is a two-page Power BI dashboard that gives a 360° view of a multi-country retail and supply chain operation:
 
-- **Dashboard 1 — Sales Performance:** Tracks orders, revenue, profit, and profitability by product category, region, country, and individual products, with a year-over-year (2023 vs 2024) toggle.
-- **Dashboard 2 — Supply Chain & Operations:** Tracks shipping speed, damaged goods, stock levels, supplier performance, delivery success rate, and warehouse-level year-over-year performance.
+- **Dashboard 1 - Sales Performance:** Tracks orders, revenue, profit, and profitability by product category, region, country, and individual products, with a year-over-year (2023 vs 2024) toggle.
+- **Dashboard 2 - Supply Chain & Operations:** Tracks shipping speed, damaged goods, stock levels, supplier performance, delivery success rate, and warehouse-level year-over-year performance.
 
 The report is filterable by **Region**, **Year**, and **Product Category**, allowing stakeholders to drill from a company-wide view down to a specific warehouse, supplier, or product.
 
-## ❗ Business Problem
+## Business Problem
 
 Retail and supply chain data for the business is generated across multiple systems (sales, warehousing, and supplier/logistics records), making it difficult for management to answer basic but critical questions quickly, such as:
 
-- Which regions, categories, and products are driving revenue and profit — and which are underperforming?
+- Which regions, categories, and products are driving revenue and profit - and which are underperforming?
 - Are shipments arriving on time, and how reliable is the delivery process?
 - Which suppliers and warehouses are the strongest and weakest performers?
 - Is the business growing profit year-over-year, and where is that growth (or decline) concentrated?
 
 Without a consolidated view, decisions on inventory, supplier contracts, and regional strategy were being made reactively and without a single source of truth.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Consolidate sales and supply chain data into one interactive Power BI report.
 - Track core performance metrics (revenue, profit, profit margin, orders) at company, regional, and product-category level.
@@ -48,7 +48,7 @@ Without a consolidated view, decisions on inventory, supplier contracts, and reg
 - Enable year-over-year comparisons to highlight growth trends and flag declining areas early.
 - Deliver an intuitive, filterable interface that non-technical stakeholders can self-serve from.
 
-## 🗂 Datasets
+## Datasets
 
 The report is built from retail sales and supply chain data covering operations across African regions (East, West, Central, North, and South Africa). Core data points include:
 
@@ -61,13 +61,13 @@ The report is built from retail sales and supply chain data covering operations 
 
 ## 🖼 Dashboard Preview
 
-### Dashboard 1 — Supermart Sales Performance
+### Dashboard 1 - Globalmart Sales Performance
 ![](sales-performance-dashboard.png)
 
 ### Dashboard 2 — Global Mart Supply Chain & Operations
 ![](supply-chain-dashboard.png)
 
-## 📊 KPIs
+## KPIs
 
 **Sales Performance**
 | KPI | Value |
@@ -86,7 +86,7 @@ The report is built from retail sales and supply chain data covering operations 
 | YoY Total Profit % | 28.73% |
 | Delivery Success Rate | 34.71% |
 
-## ❓ Business Questions & Insights
+##  Business Questions & Insights
 
 **1. Which product categories generate the most revenue?**
 Home Appliances ($61M), Health & Beauty ($60M), and Industrial Equipment ($55M) are the top three categories, ahead of Office Supplies ($50M) and Sports & Fitness ($48M).
@@ -109,28 +109,28 @@ Delivery Success Rate sits at just **34.71%**, and the Delivery Status Trend sho
 **7. Which warehouses are the strongest performers year-over-year?**
 Accra WH-2 and Cairo WH-4 lead in total revenue (~$24.4M and ~$23.0M respectively), with Accra WH-2 also posting the highest total profit (~$6.83M). All five tracked warehouses grew profit compared to the previous year.
 
-## 💡 Business Insight
+##  Business Insight
 
-- **Growth is real but concentrated.** YoY total profit is up 28.73% and warehouse-level profit grew across the board, but growth is unevenly distributed — East, Central, and West Africa outperform North and South Africa by a wide margin.
+- **Growth is real but concentrated.** YoY total profit is up 28.73% and warehouse-level profit grew across the board, but growth is unevenly distributed-East, Central, and West Africa outperform North and South Africa by a wide margin.
 - **Delivery performance is the biggest operational risk.** A 34.71% delivery success rate paired with a declining delivery status trend (188 → 140 over the observed period) suggests systemic issues in logistics, not a one-off disruption — this is likely eroding customer satisfaction and repeat orders.
 - **Stock levels don't equal profitability.** The suppliers holding the most inventory (Nilesupply, Primegoods, Quickship Co) are not always the most profitable, indicating some capital may be tied up in slow-moving or lower-margin stock.
 - **Revenue is decelerating monthly.** The steady month-over-month revenue decline since the mid-year peak needs root-cause investigation — whether seasonal, competitive, or supply-driven.
 
-## 🧭 Strategic Recommendations
+## Strategic Recommendations
 
-1. **Prioritize a delivery reliability audit.** Investigate root causes behind the 34.71% success rate and the downward delivery trend — carrier performance, warehouse dispatch times, or regional infrastructure gaps.
+1. **Prioritize a delivery reliability audit.** Investigate root causes behind the 34.71% success rate and the downward delivery trend - carrier performance, warehouse dispatch times, or regional infrastructure gaps.
 2. **Rebalance supplier contracts around profitability, not just stock volume.** Shift more purchasing toward high-profit suppliers (Quickship Co, Globaltrade Ng, Afroparts Ltd) and renegotiate or reduce reliance on low-margin, high-stock suppliers.
-3. **Invest in underperforming regions.** North and South Africa lag well behind East, Central, and West Africa — targeted marketing, localized promotions, or expanded distribution could close the gap.
+3. **Invest in underperforming regions.** North and South Africa lag well behind East, Central, and West Africa - targeted marketing, localized promotions, or expanded distribution could close the gap.
 4. **Replicate top-warehouse practices.** Study what Accra WH-2 and Cairo WH-4 are doing well operationally and apply those practices to lower-performing warehouses like Lagos WH-1.
 5. **Investigate the revenue decline post-July.** Run a seasonal/category-level breakdown to determine if the drop is demand-driven, stock-driven, or competitive, and plan promotions or replenishment ahead of the next expected dip.
 6. **Reduce damaged goods.** With 20K total damaged goods reported, review packaging, handling, and warehouse storage conditions, especially at higher-volume warehouses.
 
-## 🚀 Future Improvements
+## Future Improvements
 
 *Longer-term moves the business could pursue based on what this dashboard reveals — beyond the immediate actions in Strategic Recommendations above.*
 
 - **Diversify the logistics network** by qualifying secondary carriers or 3PL partners in the regions dragging down delivery success, reducing dependence on any single logistics provider.
-- **Rebalance the supplier base toward profitability** over time — grow volume with high-margin suppliers like Quickship Co and Globaltrade Ng while phasing down reliance on low-margin, high-stock suppliers.
+- **Rebalance the supplier base toward profitability** over time - grow volume with high-margin suppliers like Quickship Co and Globaltrade Ng while phasing down reliance on low-margin, high-stock suppliers.
 - **Pursue targeted regional growth** in North and South Africa through local partnerships, localized product assortments, or new distribution points to close the gap with East, Central, and West Africa.
 - **Replicate high-performing warehouse operations** by turning Accra WH-2 and Cairo WH-4's practices into a standard playbook rolled out to Lagos WH-1 and other underperforming sites.
 - **Smooth seasonal revenue swings** by developing counter-seasonal product lines or promotions to offset the post-July decline, rather than relying on the same demand pattern every year.
