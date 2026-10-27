@@ -20,7 +20,7 @@ An end-to-end Power BI project that cleans a messy multi-country retail dataset 
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a two-page Power BI report built on a cleaned star-schema data model:
 
